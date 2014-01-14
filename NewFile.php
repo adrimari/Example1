@@ -1,2 +1,3 @@
 <?php
-Hello this is a new file
+echo "Hello this is a new file";
+echo "Adri was here";
